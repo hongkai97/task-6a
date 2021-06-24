@@ -1,6 +1,14 @@
 
 > Open this page at [https://hongkai97.github.io/task-6a/](https://hongkai97.github.io/task-6a/)
 
+## Edit this project ![Build status badge](https://github.com/hongkai97/task-6a/workflows/MakeCode/badge.svg)
+
+To edit this repository in MakeCode.
+
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/hongkai97/task-6a** and click import
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -9,14 +17,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/hongkai97/task-6a** and import
-
-## Edit this project ![Build status badge](https://github.com/hongkai97/task-6a/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/hongkai97/task-6a** and click import
 
 ## Blocks preview
 
